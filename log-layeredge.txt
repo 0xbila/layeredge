@@ -916,3 +916,6 @@
 <!-- a padding to disable MSIE and Chrome friendly error page -->
 <!-- a padding to disable MSIE and Chrome friendly error page -->
 
+[19:36:13 | 29-03-2025] Wallet Address: 0x36Bbdb14973b254Db1292A660F4D030F20F79B5C
+[19:36:13 | 29-03-2025] Node Points: 966788
+[19:36:13 | 29-03-2025] Last Claim Point: 29/03/2025 08:23:44
